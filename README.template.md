@@ -4,15 +4,17 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad__)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sumitxprasad/)
 
-Hello! My name is Sumit Prasad. I'm a self-taught web developer.
+---
+
+### 👋 Hello! <br> 
+My name is Sumit Prasad. I'm a self-taught web developer.
 I work mainly on web projects and sometimes in making softwares.
-I love to learn new things and adapt to the current environment around me.
+I love to learn new things and you want to learn everyday.
 
 ---
-### Skills
----
+## Skills
 
-## ⚙️ Technologies
+### ⚙️ Technologies
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
@@ -21,12 +23,12 @@ I love to learn new things and adapt to the current environment around me.
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 
-## 🧁 Frontend
+### 🧁 Frontend
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=F43059)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
 
-## 🧰 Tools
+### 🧰 Tools
 
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=009639)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
