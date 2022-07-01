@@ -9,7 +9,7 @@ I work mainly on web projects and sometimes in making softwares.
 Feel free if you have any queries or if you would like to give me an important piece of advice.
 
 ## 💼 Skills
-
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
