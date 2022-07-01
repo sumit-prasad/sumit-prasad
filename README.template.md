@@ -9,7 +9,7 @@
 ### 👋 Hello! <br> 
 My name is Sumit Prasad. I'm a self-taught web developer.
 I work mainly on web projects and sometimes in making softwares.
-I love to learn new things and you want to learn everyday.
+I love to learn new things and create useful projects.
 
 ---
 ## Skills
@@ -35,3 +35,14 @@ I love to learn new things and you want to learn everyday.
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
+
+---
+## Github Stats
+
+<a href="https://github.com/sumit-prasad">
+  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api?username=sumit-prasad&theme=omni&show_icons=true  alt="Sumit's GitHub Stats" />
+</a>
+
+<a href="https://github.com/sumit-prasad">
+  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prasad&show_icons=true&theme=omni" />
+</a>
