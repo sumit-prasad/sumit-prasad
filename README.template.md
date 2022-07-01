@@ -1,4 +1,4 @@
-[![Sumit's GitHub Banner](./assets/Sumit-GH-Banner.png.png)](https://twitter.com/_sumitprasad_)
+[![Sumit's GitHub Banner](./assets/Sumit-GH-Banner.png)](https://twitter.com/_sumitprasad_)
 
 [![Visits Badge](https://badges.pufler.dev/visits/sumitprasad/sumitprasad)]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad__)
