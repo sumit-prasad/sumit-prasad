@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Sumit's GitHub Banner]()](https://sumit-web.herokuapp.com/)
+[![Sumit's GitHub Banner](./assets/SumitPrasad.png)](https://sumit-web.herokuapp.com/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/sumit-prasad/sumit-prasad)](https://github.com/sumit-prasad/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad__)
