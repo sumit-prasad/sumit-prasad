@@ -9,7 +9,7 @@
 ### 👋 Hello! <br> 
 👨‍💻 My name is Sumit Prasad. I'm a self-taught web developer. <br>
 💻 I work mainly on web projects and sometimes in making softwares. <br>
-❤️ I love to learn new things and create useful projects.
+❤️ I love to learn new things and build useful projects.
 
 ---
 ## Skills
