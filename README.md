@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Sumit's GitHub Banner](./assets/SumitPrasad.png)](https://sumit-web.herokuapp.com/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/sumit-prasad/sumit-prasad)](https://github.com/sumit-prasad/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sumit-prasad%2Fsumit-prasad&label=Visits&countColor=%232ccce4&style=plastic)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad__)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sumitxprasad/)
 [![Mail Badge](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)](mailto:prasadsumit99544@gmail.com)
