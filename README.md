@@ -1,29 +1,16 @@
 <!--
 **sumit-prasad/sumit-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 [![Sumit's GitHub Banner](./assets/SumitPrasad.png)](https://sumit-web.herokuapp.com/)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=sumit-prasad%2Fsumit-prasad&label=Visits&countColor=%232ccce4&style=plastic)](https://sumit-web.herokuapp.com/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad__)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sumitxprasad/)
-[![Mail Badge](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)](mailto:prasadsumit99544@gmail.com)
+
 
 ---
 
 ### 👋 Hello! <br> 
-👨‍💻 My name is Sumit Prasad. I'm a self-taught web developer. <br>
+👨‍💻 My name is Sumit Prasad. I'm a self-taught Web Developer and a Software Engineer. <br>
 💻 I work mainly on web projects and sometimes in making softwares. <br>
 ❤️ I love to learn new things and build useful projects.
 
@@ -43,6 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=F43059)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
+![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=0D6AFF)
+
 
 ### 🧰 Tools
 
@@ -55,10 +44,14 @@ Here are some ideas to get you started:
 ---
 ## Github Stats
 
-<a href="https://github.com/sumit-prasad">
-  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api?username=sumit-prasad&theme=omni&show_icons=true  alt="Sumit's GitHub Stats" />
-</a>
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-prasad&show_icons=true&theme=github_dark)](https://github.com/sumit-prasad/sumit-prasad)
 
-<a href="https://github.com/sumit-prasad">
-  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prasad&show_icons=true&theme=omni" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prasad&show_icons=true&theme=github_dark&layout=compact)](https://github.com/sumit-prasad/sumit-prasad)
+
+---
+
+#### You can reach me through the following networks
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sumitxprasad/)
+[![Mail Badge](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)](mailto:prasadsumit99544@gmail.com)
