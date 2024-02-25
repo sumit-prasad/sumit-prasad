@@ -1,62 +1,74 @@
-<!--
-**sumit-prasad/sumit-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img alt="Banner" src="./assets/SumitPrasad.png" height="280" /><br>
+  <img alt="visitors" src="https://api.visitorbadge.io/api/visitors?path=sumit-prasad%2Fsumit-prasad&label=Visits&countColor=%232ccce4&style=plastic"
+</p>
 
-[![Sumit's GitHub Banner](./assets/SumitPrasad.png)](https://sumit-web.herokuapp.com/)
+# Hello there!! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32"></h2>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=sumit-prasad%2Fsumit-prasad&label=Visits&countColor=%232ccce4&style=plastic)](https://sumit-web.herokuapp.com/)
+I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
 
+#### About Me
+- :man_technologist: I'm the digital wizard who tries to crafts web wonders and occasionally dances with software sorcery.
+- :seedling: I'm a curious minded individual, always planting new tech seeds and watching them grow into mighty skills.
+- :heart: I thrive on open source adventures and teaming up with fellow enthusiasts to help in making beautiful piece of tech.
 
----
-
-### 👋 Hello! <br> 
-👨‍💻 My name is Sumit Prasad. I'm a self-taught Web Developer and a Software Engineer. <br>
-💻 I work mainly on web projects and sometimes in making softwares. <br>
-❤️ I love to learn new things and build useful projects.
-
----
 ## Skills
 
-### ⚙️ Technologies, Frameworks and Databases
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=FF7800)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+#### :joystick: Languages
+![](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### 🧁 Frontend
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=F43059)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
-![](https://img.shields.io/badge/Style-EJS-informational?style=flat&logo=EJS&logoColor=white&color=f7e279)
-![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=0D6AFF)
+#### :art: Frontend
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-239120?style=flat&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/-React-20232A?style=flat&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)
+![](https://img.shields.io/badge/-BootStrap-563D7C?style=flat&logo=BootStrap&logoColor=white)
+![](https://img.shields.io/badge/-EJS-333333?style=flat&logo=EJS&logoColor=white)
 
+#### :hammer_and_wrench: Backend
+![](https://img.shields.io/badge/-NodeJS-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-Express-404D59?style=flat&logo=express)
+![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 
-### 🧰 Tools
+#### :package: Databases
+![](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=PostgreSQL&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=009639)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=5a4b96)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=eb6702)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
+#### :cloud: Cloud & Hosting
+![](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=NGINX&logoColor=white)
+![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
+![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white)
+
+#### :toolbox: Tools
+![](https://img.shields.io/badge/-Git-E44C30?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=GitHub)
+![](https://img.shields.io/badge/-Postman-F96854?style=flat&logo=Postman&logoColor=white)
 
 ---
-## Github Stats
 
-[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-prasad&show_icons=true&theme=github_dark)](https://github.com/sumit-prasad/sumit-prasad)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prasad&show_icons=true&theme=github_dark&layout=compact)](https://github.com/sumit-prasad/sumit-prasad)
+<div>
+<h2>Github Stats</h2>
+<a href="https://github.com/sumit-prasad">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-prasad&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/sumit-prasad">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-prasad&layout=compact&langs_count=8&card_width=320show_icons=true&theme=dark" />
+</a>
+</div>
 
 ---
+
 
 #### You can reach me through the following networks
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_sumitprasad_)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sumitxprasad/)
-[![Mail Badge](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)](mailto:prasadsumit99544@gmail.com)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_sumitprasad_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitxprasad) 
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadsumit99544@gmail.com)
