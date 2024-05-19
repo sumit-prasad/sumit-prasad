@@ -8,9 +8,9 @@
 I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
 
 #### About Me
-- :man_technologist: I'm the digital wizard who tries to crafts web wonders and occasionally dances with software sorcery.
-- :seedling: I'm a curious minded individual, always planting new tech seeds and watching them grow into mighty skills.
-- :heart: I thrive on open source adventures and teaming up with fellow enthusiasts to help in making beautiful piece of tech.
+- :man_technologist: I'm the digital wizard who tries to craft web wonders and occasionally works in developing software.
+- :seedling: Computer Science Engineer
+- :heart: I love tinkering with electronic gadgets and enjoy collecting keyboards.
 
 ## Skills
 
@@ -20,7 +20,6 @@ I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate
 ![](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 #### :art: Frontend
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -44,6 +43,7 @@ I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate
 
 #### :cloud: Cloud & Hosting
 ![](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=NGINX&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
 ![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white)
 
@@ -51,6 +51,7 @@ I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate
 ![](https://img.shields.io/badge/-Git-E44C30?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=GitHub)
 ![](https://img.shields.io/badge/-Postman-F96854?style=flat&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
