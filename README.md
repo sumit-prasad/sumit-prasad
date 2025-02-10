@@ -5,7 +5,7 @@
 
 # Hello there!! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32"></h2>
 
-I'm Sumit, a self-taught Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
+I'm Sumit, a Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
 
 #### About Me
 - :man_technologist: I'm the digital wizard who tries to craft web wonders and occasionally works in developing software.
