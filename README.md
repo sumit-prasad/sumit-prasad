@@ -15,8 +15,9 @@ I'm Sumit, a Backend Web Developer and Software Engineer, passionate about craft
 ## Skills
 
 #### :joystick: Languages
-![](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Python-323330?style=flat&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/-Javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-Golang-323330?style=flat&logo=go&logoColor=00ADD8)
 
 #### :art: Frontend
 ![](https://img.shields.io/badge/-React-20232A?style=flat&logo=React&logoColor=white)
@@ -67,5 +68,5 @@ I'm Sumit, a Backend Web Developer and Software Engineer, passionate about craft
 
 #### You can reach me through the following networks
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitxprasad) 
-[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sumitprasad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitxprasad) 
+[![Email](https://img.shields.io/badge/GMail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:work.sumitprasad@gmail.com)
