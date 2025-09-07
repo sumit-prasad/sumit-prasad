@@ -1,8 +1,3 @@
-<p align="center">
-  <img alt="Banner" src="./assets/SumitPrasad.png" height="280" /><br>
-  <img alt="visitors" src="https://api.visitorbadge.io/api/visitors?path=sumit-prasad%2Fsumit-prasad&label=Visits&countColor=%232ccce4&style=plastic"
-</p>
-
 # Hello there!! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32"></h2>
 
 I'm Sumit, a Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
@@ -41,7 +36,7 @@ I'm Sumit, a Backend Web Developer and Software Engineer, passionate about craft
 ![](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=MySQL&logoColor=white)
 
 #### :cloud: Cloud & Deployment
-![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=NGINX&logoColor=white)
 
