@@ -3,7 +3,6 @@
 I'm Sumit, a Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
 
 #### About Me
-- :man_technologist: I'm the digital wizard who tries to craft web wonders and occasionally works in developing software.
 - :seedling: Computer Science Engineer
 - :heart: I love tinkering with electronic gadgets and enjoy collecting keyboards.
 
