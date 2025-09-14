@@ -1,6 +1,6 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32" /> Hello there!!
 
-I'm Sumit, a Backend Web Developer and Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
+I'm Sumit, a Backend Web Developer and a Software Engineer, passionate about crafting meaningful projects and exploring new technologies.
 
 #### About Me
 - :seedling: Computer Science Engineer
